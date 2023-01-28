@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stm32g0xx_ll_system.h": "c",
+        "stm32g0xx_ll_bus.h": "c",
+        "stm32g0xx_ll_cortex.h": "c",
+        "stm32g0xx_ll_pwr.h": "c",
+        "stm32g0xx_ll_usart.h": "c",
+        "uart_tx.h": "c",
+        "upgrade_param.h": "c",
+        "stm32g0xx_ll_lpuart.h": "c",
+        "stm32g0xx_ll_gpio.h": "c"
+    }
+}
